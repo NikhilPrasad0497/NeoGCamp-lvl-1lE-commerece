@@ -1,11 +1,28 @@
-*{
-    
-}
+
 .nav{
     height: 4rem;
     background-color: blue;
+    width: 100vw;
 }
 
 .link{
     color: white;
+}
+
+.flexDiv{
+    display: flex;
+    height: 4rem;
+    margin: 0 1rem 1rem 1rem;
+    justify-content: space-between;
+}
+
+.flexImageDiv{
+    align-self: center;
+    color: white;
+}
+
+.flexButtonDiv{
+    display: flex;
+    width: 25%;
+    justify-content: space-around;
 }

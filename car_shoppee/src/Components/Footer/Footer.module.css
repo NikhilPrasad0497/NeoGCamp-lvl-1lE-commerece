@@ -1,11 +1,11 @@
 .Footer{
     position: fixed;
-    bottom: 2rem;
+    bottom: 1rem;
     text-align: center;
     width: 100vw;
 }
 
 .link{
     text-decoration: none;
-    color: black;
+    color: rgb(0, 0, 0);
 }
